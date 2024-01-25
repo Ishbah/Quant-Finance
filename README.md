@@ -1,2 +1,2 @@
-# hello_world
-First try
+# Experiments with Quant Finance codes in python
+
